@@ -9,6 +9,7 @@ print("""                    ____            __   __________ __ __
 def text_to_ascii():
     print("Welcome to ezart!")
     print("We are not responsible for any \noffensive language created here.")
+    print("If you are going to expand on this, please give me credit. -cooltech334")
     text = input("Enter the text you want to convert to ASCII art: ")
     
     # Choose an ASCII font style
